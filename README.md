@@ -18,4 +18,4 @@ remotes::install_github("rmflight/WatchPID")
 
 Here is a gif of an example where we are watching another R process every 1 second, and simply reporting if it is alive or dead:
 
-![]("watch_pid_example.gif")
+![](watch_pid_example.gif)
